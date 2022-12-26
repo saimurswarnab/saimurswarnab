@@ -1,4 +1,4 @@
-![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)
+![MasterHead](https://static.wixstatic.com/media/4bc47a_b6c56bdbdaab473bbb12d1c33d71294d~mv2.gif)
 <h1 align="center">Hi 👋, I'm Saimur Swarnab</h1>
 <h3 align="center">I'm a android developer, machine learning & ai developer, researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
