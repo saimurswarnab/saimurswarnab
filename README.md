@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-computer-chip-binary-data-futuristic-artificial-intelligence-ai-deep-neural-network-148214232.jpg)
+![MasterHead](https://www.market-prospects.com//storage/images/671_1200x675.jpg)
 <h1 align="center">Hi 👋, I'm Saimur Swarnab</h1>
 <h3 align="center">I'm a android developer, machine learning & ai developer, researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
