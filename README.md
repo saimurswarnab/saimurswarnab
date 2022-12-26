@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![MasterHead](https://uploads-ssl.webflow.com/6098e41066be8b2b7cb437cd/6138f319b4825f3c62d7c99b_5%20Ways%20To%20Make%20An%20Animated%20GIF%20Without%20Photoshop.jpg)
 <h1 align="center">Hi 👋, I'm Saimur Swarnab</h1>
 <h3 align="center">I'm a android developer, machine learning & ai developer, researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
