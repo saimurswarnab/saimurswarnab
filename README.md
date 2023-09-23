@@ -1,17 +1,17 @@
 ![MasterHead](https://uploads-ssl.webflow.com/6098e41066be8b2b7cb437cd/6138f319b4825f3c62d7c99b_5%20Ways%20To%20Make%20An%20Animated%20GIF%20Without%20Photoshop.jpg)
 <h1 align="center">Hi 👋, I'm Saimur Swarnab</h1>
-<h3 align="center">I'm a android developer, machine learning & ai developer, researcher from Bangladesh</h3>
+<h3 align="center">I'm a Blockchain developer, android developer, machine learning & ai developer, researcher from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimurswarnab&label=Profile%20views&color=0e75b6&style=flat" alt="saimurswarnab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saimurswarnab" target="blank"><img src="https://img.shields.io/twitter/follow/saimurswarnab?logo=twitter&style=for-the-badge" alt="saimurswarnab" /></a> </p>
 
-- 🔭 I’m currently working on **Easy Ride App**
+- 🔭 I’m currently working on **Blockchain Projects**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Android , Python**
+- 💬 Ask me about **BlockChain , Python, Solidity**
 
 - 📫 How to reach me **saimur101@gmail.com**
 
