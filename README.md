@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **BlockChain, Python, Solidity, JavaScript, React Js**
+- 💬 Ask me about **BlockChain, Solidity, JavaScript, React Js**
 
 - 📫 How to reach me **saimur101@gmail.com**
 
