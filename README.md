@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Saimur Swarnab</h1>
-<h3 align="center">I'm a Blockchain developer, javascript, react js, android developer, machine learning and AI developer from Bangladesh</h3>
+<h3 align="center">I'm a Blockchain developer, javascript, react js, machine learning and AI developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimurswarnab&label=Profile%20views&color=0e75b6&style=flat" alt="saimurswarnab" /> </p>
