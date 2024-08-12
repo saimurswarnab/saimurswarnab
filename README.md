@@ -35,11 +35,32 @@
 <p align="center"> <img width="1000" src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="snake"/> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimurswarnab&show_icons=true&locale=en&layout=compact" alt="saimurswarnab" /></p>
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saimurswarnab&show_icons=true&theme=transparent&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=saimurswarnab&show_icons=true&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimurswarnab&show_icons=true&theme=transparent&locale=en&layout=compact" alt="otavio-sousa" style="height: 200px;" />
+    </picture>
+  </div>
+    <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=saimurswarnab&show_icons=true&theme=transparent&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=saimurswarnab&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=otaviossousa&show_icons=true&theme=transparent&locale=en" alt="otavio-sousa" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saimurswarnab&show_icons=true&locale=en" alt="saimurswarnab" /></p>
+<div style="text-align: center;height: 100% ">
+  <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimurswarnab&theme=transparent&align=center" alt="mystreak"  />
+  </p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimurswarnab&" alt="saimurswarnab" /></p>
+
+
+
 
 
 
