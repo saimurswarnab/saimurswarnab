@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blockchain Projects**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **BlockChain, Solidity, JavaScript, React Js**
 
