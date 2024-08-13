@@ -51,13 +51,13 @@
     </picture>
   </div>
 </div>
-
+<br/>
+<br/>
 <div style="text-align: center;height: 100% ">
   <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimurswarnab&theme=transparent&align=center" alt="mystreak"  />
   </p>
 </div>
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
