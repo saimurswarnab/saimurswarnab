@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimurswarnab&label=Profile%20views&color=0e75b6&style=flat" alt="saimurswarnab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saimurswarnab" target="blank"><img src="https://img.shields.io/twitter/follow/saimurswarnab?logo=twitter&style=for-the-badge" alt="saimurswarnab" /></a> </p>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <strong>About me</strong> 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> <strong>About me</strong> 
 <br/>
 
 - 🔭 I’m currently working on **Blockchain Projects**
