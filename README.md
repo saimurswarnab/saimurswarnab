@@ -55,7 +55,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/saimurswarnba?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=saimurswarnab&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@SaimurSwarnab's github-readme-stats"/></a>
+  
+<img src="https://gh-readme-profile.vercel.app/api?username=saimurswarnab&theme=transparent&border_width=2&border_radius=15.2&hide_border=false" width="58%"/>
+
+<a href="https://github.com/saimurswarnab?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=saimurswarnab&theme=transparent&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@SaimurSwarnab's github-readme-stat"/></a>
 <a href="https://github.com/saimurswarnab?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=saimurswarnab&theme=transparent&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Swarnab's github-readme-streak-stats"/></a>
 </p>
  
